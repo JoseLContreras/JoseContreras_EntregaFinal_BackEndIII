@@ -3,5 +3,5 @@
 Proyecto Ecommerce 
 Estilo Musimundo
 
-Descripción
+Descripción:
 Proyecto Final para el curso Programacion Backend: Testing y Escalabilidad Backend de Coderhouse (Comisión 70405).
